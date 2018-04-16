@@ -3,9 +3,11 @@
 Edition complète du Coran en arabe et français sous format JSON, compilé à partir de plusieurs sources libres.
 
 Infos:
+
 114 sourates, 6236 versets
 
 Format:
+
 "sourates": [
     {
       "position": 1,
@@ -105,4 +107,5 @@ Format:
     
 
 A savoir :
+
 Plusieurs compilation existent mais aucune n'était suffisamment complète, ou contenait de trop nombreux fichiers, pour une utilisation optimale en version française.
